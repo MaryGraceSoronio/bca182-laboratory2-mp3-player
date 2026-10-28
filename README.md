@@ -277,7 +277,7 @@ This implementation adapts the lab design to a practical embedded workflow:
 
 For deeper documentation, circuit details, and demonstration material, refer to the project page and related lab report:
 
-- [Project on Hackster.io](https://www.hackster.io/556333/multithreaded-rt-spark-mp3-player-using-freertos-f30b88)
+-
 - `docs/Laboratory Report/Laboratory Report - Personal MP3 Player.pdf`
 
 ## License and usage notes
